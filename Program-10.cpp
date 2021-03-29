@@ -10,8 +10,8 @@ using namespace std;
 
 int main()
 {
-double x = 10.25,   ;//complete the declaration
-result =; //use the function with gives us the square root
-cout << "Square root of " << x << " is " << res;
+double x = 10.25, result  ;//complete the declaration
+result =sqrt(x); //use the function with gives us the square root
+cout << "Square root of " << x << " is " << result;
 return 0;
 }
